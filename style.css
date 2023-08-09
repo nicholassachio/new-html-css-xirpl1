@@ -1,0 +1,57 @@
+.haha{
+    color: white;
+    border: 1px solid black;
+    margin: 20px;
+    border-radius: 20px;
+    }
+body {border: radius 10px; ;
+width: min-content;
+height: min-content;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.table{
+    width: 45%;
+}
+
+.table tr{
+    background-color: rgb(3, 11, 128);
+    color: floralwhite;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 370%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(36, 255, 189);
+    text-shadow: 2px 2px 1px rgba(0, 0, 0, 1);
+}
+
+.haha{
+width: 100%;
+}
+
+.haha td{
+    background-color: rgb(134, 155, 250);
+    color: rgb(255, 255, 255);
+    padding: 6px;
+}
+
+th, td {
+    border: 7px solid transparent;
+    width: 400px;
+    height: 10px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 35px;
+}
+
+.mapel td{
+    background-color: rgb(128, 3, 101);
+    color: rgb(255, 255, 255);
+}
